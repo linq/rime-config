@@ -1,0 +1,10 @@
+# mydict.dict.yaml
+
+---
+name: mydict
+version: "1"
+sort: by_weight
+...
+Anki	Anki
+iPaaS	iPaaS
+Agent	Agent
